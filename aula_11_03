@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Aula 04/03</title>
+  </head>
+  <body>
+    <nav>
+      <a href="/camisa/" > Camisa </a>|
+      <a href="/short/"> Short </a> |
+      <a href="/chapeu/" > Chapeu </a>
+    </nav>
+   </body>
+    
+</html>
+
+
+
+
